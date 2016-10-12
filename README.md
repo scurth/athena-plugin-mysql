@@ -1,6 +1,8 @@
 athena-plugin-mysql
 ===================
 
+This plugin is used to quickly start a mysql server for testing purpose or data crunching.
+
 ## Jump to section
 * [Athena OSS] (#athena-oss)
 * [Usage] (#usage)
