@@ -9,6 +9,7 @@ athena-plugin-mysql
 ## Athena OSS
 
 Athena OSS project page [https://athena-oss.github.io/]
+
 Athena Github project [https://github.com/athena-oss/athena]
 
 ## Usage
